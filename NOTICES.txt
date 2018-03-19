@@ -1,0 +1,30 @@
+               NOTICES REGARDING THIS DISKETTE
+
+The entire contents of this diskette are  copyright  (C)  1976, 
+1977, 1978, 1979, 1980 by Processor Technology  Corporation,  a 
+California corporation.
+
+The contents of this diskette are protected  by  copyrights  of 
+Processor Technology Corporation and are distributed by license 
+only.  The  distributing  and  licensing  agent is Proteus, the 
+Processor Technology Users,  1690  Woodside  Road,  Suite  219, 
+Redwood City, California 94061, USA.
+
+It is unlawful  to  copy  any  portion  of  this  diskette  for 
+distribution to another person or entity, unless that person or 
+entity is also licensed to use the programs on  this  diskette. 
+This applies to all forms of the programs, including source and 
+object, machine-readable  or  human-readable,  on  any  medium,
+including  magnetic  recording media, telecommunications links, 
+etc..
+
+There  are  two  types  of  licenses  available:  personal  and 
+commercial. The personal license allows an  individual  to  use 
+the  programs  for  personal  use  and  to  distribute programs 
+derived  from  them  only  to  other  licensees. The commercial 
+license allows a person or business entity to distribute object 
+code  derived  from  any or all of these programs to anyone. If 
+you are interested in being licensed to use  or  to  distribute 
+these programs, please contact Proteus at the address above for 
+details.
+
